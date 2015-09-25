@@ -1,5 +1,7 @@
 # x509
 
+[![Build Status](https://travis-ci.org/phpecc/x509.svg?branch=master)](https://travis-ci.org/phpecc/x509)
+
 This library is an implementation of key x509 features, such as certificates,
 signature requests, specifically only those which use ECDSA. 
 algorithm. 
