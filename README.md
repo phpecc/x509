@@ -19,7 +19,7 @@ This package is released under the MIT license.
 
 You can install this library via Composer:
 
-`composer require mdanter/x509`
+`composer require phpecc/x509`
 
 ## Contribute
 
